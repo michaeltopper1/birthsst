@@ -1,0 +1,11 @@
+Package: birthsst
+Type: Package
+Title: Package for Cleaning Gun-Shot Noise and Birth Outcomes 
+Version: 0.1.0
+Author: Michael Topper
+Maintainer: Michael Topper <michaeltopper@ucsb.edu>
+Description: Simple functions to make it easier to read and maintain the code in the Gunshot Noise and Birth Outcomes paper
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
